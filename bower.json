@@ -1,0 +1,35 @@
+{
+  "name": "angular-tooltips",
+  "description": "Tooltip Directive For AngularJS",
+  "version": "0.2.0",
+  "homepage": "https://github.com/himanshu1373/angular-tooltips",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/himanshu1373/angular-tooltips.git"
+  },
+  "authors": [
+    "Himanshu <himanshurs88@gmail.com>"
+  ],
+  "main": [
+    "angular-tooltips.js",
+    "angular-tooltips.css"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "Tooltip",
+    "Directive",
+    "Angular",
+    "AngularJS"
+  ],
+  "license": "MIT",
+  "ignore": [
+      "*",
+      "!dist/",
+      "!dist/*"
+  ],
+  "dependencies": {
+    "angular": "^1.4.0"
+  }
+}
